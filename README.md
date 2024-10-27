@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tirth Patel!
 
-### 💻 Aspiring Software Developer | 🎓 Currently Studying [Your Course/Subject] at [Your Institution]
+### 💻 Aspiring Software Developer | 🎓 Currently Studying Software Development at Southern Alberta Institute of Technology (SAIT).
 
 Welcome to my GitHub profile! I am a passionate learner with a focus on software development. I enjoy exploring new technologies, building projects, and continuously improving my skills.
 
@@ -23,37 +23,18 @@ Welcome to my GitHub profile! I am a passionate learner with a focus on software
 ### 📚 What I'm Currently Learning
 - [ ] Advanced Java Programming
 - [ ] Full-Stack Web Development
-- [ ] Machine Learning Basics
+- [ ] Software Testing
 
 ---
 
-### 📈 GitHub Stats
-
-![Tirth Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
 
 ### 🔍 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/yourusername) 
-- [Personal Website](https://yourwebsite.com) 
-- 📧 [Email](mailto:yourname@email.com)
+- [Instagram](https://www.instagram.com/tirth__.01?igsh=MWdtejBmMjN5Ympidg==)
+- 📧 [Email](mailto:tirth.patel.1024@email.com)
 
 Feel free to check out my repositories and projects. I'm always open to collaborating on new projects and learning opportunities!
 
----
-
-### 📂 Featured Projects
-
-#### 📝 [Project Name](https://github.com/yourusername/projectname)
-**Brief Description:** This project does XYZ...  
-**Technologies:** JavaScript, HTML, CSS
-
-#### 📊 [Another Project](https://github.com/yourusername/anotherproject)
-**Brief Description:** This project focuses on ABC...  
-**Technologies:** Python, Flask, SQL
-
-<!-- Add more projects as needed -->
 
 ---
 
