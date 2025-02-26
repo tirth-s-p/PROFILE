@@ -39,7 +39,7 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 ---
 
 ### 📅 My Coding Journey
-I started my coding journey in [year], and since then, I've been passionate about developing software that makes a difference. From building small websites to creating complex applications, I always aim to improve and expand my skill set. I'm currently focusing on mastering [your focus area, e.g., data science, web development, etc.].
+I started my coding journey in 2019, and since then, I've been passionate about developing software that makes a difference. From building small websites to creating complex applications, I always aim to improve and expand my skill set. I'm currently focusing on mastering Python.
 
 ---
 
